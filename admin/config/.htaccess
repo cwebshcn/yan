@@ -1,0 +1,4 @@
+RewriteEngine on
+#301重定向
+RewriteRule ^(.*)$ http://www.evbas.cn/$1 [R=301,L]
+RewriteRule ^(.*)$ https://www.evbas.cn/$1 [R=301,L]

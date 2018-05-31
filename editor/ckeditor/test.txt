@@ -1,0 +1,8 @@
+<textarea id="editor" name="editor" style="width:1296px;height:300px;"></textarea>
+<script type="text/javascript">//<![CDATA[
+window.CKEDITOR_BASEPATH='/assets/ckeditor/';
+//]]></script>
+<script type="text/javascript" src="/assets/ckeditor/ckeditor.js?t=D03G5XL"></script>
+<script type="text/javascript">//<![CDATA[
+CKEDITOR.replace('editor');
+//]]></script>

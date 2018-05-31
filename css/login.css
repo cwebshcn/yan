@@ -1,0 +1,108 @@
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  list-style: none;
+  box-sizing: border-box;
+  font-family: "微软雅黑";
+  color: #000;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+  font-family: "微软雅黑";
+}
+.user_card {
+  width: 100%;
+  height: 40%;
+  padding-top: 12rem;
+  text-align: left;
+}
+.user_card > .username-wrapper,
+.user_card .password-wrapper {
+  width: 100%;
+  height: 5rem;
+  padding: 0.5rem 1rem 0rem 2rem;
+  border-bottom: 1px solid #eee;
+  font-size: 1.8rem;
+  font-weight: lighter;
+}
+.user_card > .username-wrapper > textarea,
+.user_card .password-wrapper > textarea {
+  width: 66%;
+  height: 94%;
+  outline: none;
+  border: 0;
+  font-size: 1.6rem;
+  vertical-align: middle;
+  resize: none;
+  overflow: hidden;
+  line-height: 4rem;
+  background: transparent;
+}
+.user_card .password-wrapper {
+  position: relative;
+}
+.user_card .password-wrapper .verify-password {
+  position: absolute;
+  top: 0;
+  right: 2rem;
+  bottom: 0;
+  z-index: 99;
+  margin: auto 0;
+  width: 8rem;
+  height: 2.5rem;
+  color: #fff;
+  font-size: 1.4rem;
+  outline: none;
+  background-color: #fa7e3f;
+}
+.login_btn {
+  width: 100%;
+  height: 5rem;
+  background: #fa7e3f;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  font-size: 2rem;
+  cursor: pointer;
+}
+.login_btn > span {
+  color: white;
+  height: 2rem;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+@media screen and (min-width: 961px) {
+  html {
+    height: 100%;
+  }
+  body {
+    font-size: 10px;
+    text-align: center;
+    width: 50%;
+    height: 100%;
+    border: 0.1px solid #f0f0f0;
+    margin: 0 auto;
+  }
+  .login_btn {
+    width: 50%;
+    left: 0;
+  }
+}
+@media screen and (min-width: 100px) and (max-width: 960px) {
+  html,
+  body {
+    font-size: 10px;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+  }
+}

@@ -1,0 +1,1104 @@
+[23-Mar-2018 11:04:08 Europe/Zurich] PHP Notice:  Undefined offset: 0 in /website/Agreen/Share/dshow.php on line 481
+[23-Mar-2018 11:04:08 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:04:08 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/dshow.php:0
+[23-Mar-2018 11:04:08 Europe/Zurich] PHP Notice:  Undefined offset: 0 in /website/Agreen/Share/dshow.php on line 482
+[23-Mar-2018 11:04:08 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:04:08 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/dshow.php:0
+[23-Mar-2018 11:04:08 Europe/Zurich] PHP Notice:  Undefined variable: show_cash_page in /website/Agreen/Share/dshow.php on line 513
+[23-Mar-2018 11:04:08 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:04:08 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/dshow.php:0
+[23-Mar-2018 11:04:51 Europe/Zurich] PHP Notice:  Undefined offset: 0 in /website/Agreen/Share/dshow.php on line 481
+[23-Mar-2018 11:04:51 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:04:51 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/dshow.php:0
+[23-Mar-2018 11:04:51 Europe/Zurich] PHP Notice:  Undefined offset: 0 in /website/Agreen/Share/dshow.php on line 482
+[23-Mar-2018 11:04:51 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:04:51 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/dshow.php:0
+[23-Mar-2018 11:04:51 Europe/Zurich] PHP Notice:  Undefined variable: show_cash_page in /website/Agreen/Share/dshow.php on line 513
+[23-Mar-2018 11:04:51 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:04:51 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/dshow.php:0
+[23-Mar-2018 11:05:00 Europe/Zurich] PHP Notice:  Undefined variable: smarty in /website/Agreen/Share/smarty.php on line 547
+[23-Mar-2018 11:05:00 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:05:00 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:05:00 Europe/Zurich] PHP Fatal error:  Call to a member function display() on a non-object in /website/Agreen/Share/smarty.php on line 547
+[23-Mar-2018 11:05:00 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:05:00 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:07:07 Europe/Zurich] PHP Notice:  Undefined variable: smarty in /website/Agreen/Share/smarty.php on line 549
+[23-Mar-2018 11:07:07 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:07:07 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:07:07 Europe/Zurich] PHP Fatal error:  Call to a member function display() on a non-object in /website/Agreen/Share/smarty.php on line 549
+[23-Mar-2018 11:07:07 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:07:07 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP Notice:  Undefined index: Name in /website/Agreen/Share/templates_c/45b40688e2b51cdbaedf47ab2719cbeb4ed0bc75_0.file.header.tpl.php on line 28
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   8. Smarty_Internal_Template->_subTemplateRender() /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php:34
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   9. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:350
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP  10. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP  11. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP  12. content_5ab4d1fad082a3_13390415() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/45b40688e2b51cdbaedf47ab2719cbeb4ed0bc75_0.file.header.tpl.php on line 28
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   8. Smarty_Internal_Template->_subTemplateRender() /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php:34
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   9. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:350
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP  10. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP  11. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP  12. content_5ab4d1fad082a3_13390415() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP Notice:  Undefined index: Name in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 56
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 56
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP Notice:  Undefined index: Name in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 61
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 61
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP Notice:  Undefined index: option_values in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP Notice:  Undefined index: option_selected in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP Notice:  Undefined index: option_output in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:07:54 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:05 Europe/Zurich] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/website/Agreen/Share/templates/index.tpl"  on line 143 "if($count_card["count_cash_all"]["cash"]>0 or $count_card["count_cash_all"]["status"]=="已兑奖"){?>"  - Unexpected "?" <-- 
+  thrown in /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 143
+[23-Mar-2018 11:09:40 Europe/Zurich] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/website/Agreen/Share/templates/index.tpl"  on line 142 "if($count_card["count_cash_all"]["cash"]>0 or $count_card["count_cash_all"]["status"]=="已兑奖"){?>"  - Unexpected "?" <-- 
+  thrown in /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 142
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Undefined index: Name in /website/Agreen/Share/templates_c/45b40688e2b51cdbaedf47ab2719cbeb4ed0bc75_0.file.header.tpl.php on line 28
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   8. Smarty_Internal_Template->_subTemplateRender() /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php:34
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   9. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:350
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP  10. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP  11. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP  12. content_5ab4d1fad082a3_13390415() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/45b40688e2b51cdbaedf47ab2719cbeb4ed0bc75_0.file.header.tpl.php on line 28
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   8. Smarty_Internal_Template->_subTemplateRender() /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php:34
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   9. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:350
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP  10. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP  11. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP  12. content_5ab4d1fad082a3_13390415() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Undefined index: Name in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 56
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 56
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Undefined index: Name in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 61
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 61
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Undefined index: option_values in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Undefined index: option_selected in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Undefined index: option_output in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Undefined index: Name in /website/Agreen/Share/templates_c/45b40688e2b51cdbaedf47ab2719cbeb4ed0bc75_0.file.header.tpl.php on line 28
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   8. Smarty_Internal_Template->_subTemplateRender() /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php:34
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   9. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:350
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP  10. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP  11. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP  12. content_5ab4d1fad082a3_13390415() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/45b40688e2b51cdbaedf47ab2719cbeb4ed0bc75_0.file.header.tpl.php on line 28
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   8. Smarty_Internal_Template->_subTemplateRender() /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php:34
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   9. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:350
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP  10. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP  11. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP  12. content_5ab4d1fad082a3_13390415() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Undefined index: Name in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 56
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 56
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Undefined index: Name in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 61
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 61
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Undefined index: option_values in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Undefined index: option_selected in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Undefined index: option_output in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Undefined index: Name in /website/Agreen/Share/templates_c/45b40688e2b51cdbaedf47ab2719cbeb4ed0bc75_0.file.header.tpl.php on line 28
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   8. Smarty_Internal_Template->_subTemplateRender() /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php:34
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   9. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:350
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP  10. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP  11. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP  12. content_5ab4d1fad082a3_13390415() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/45b40688e2b51cdbaedf47ab2719cbeb4ed0bc75_0.file.header.tpl.php on line 28
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   8. Smarty_Internal_Template->_subTemplateRender() /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php:34
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   9. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:350
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP  10. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP  11. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP  12. content_5ab4d1fad082a3_13390415() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Undefined index: Name in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 56
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 56
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Undefined index: Name in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 61
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 61
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Undefined index: option_values in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Undefined index: option_selected in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Undefined index: option_output in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:41 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Undefined index: Name in /website/Agreen/Share/templates_c/45b40688e2b51cdbaedf47ab2719cbeb4ed0bc75_0.file.header.tpl.php on line 28
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   8. Smarty_Internal_Template->_subTemplateRender() /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php:34
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   9. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:350
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP  10. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP  11. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP  12. content_5ab4d1fad082a3_13390415() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/45b40688e2b51cdbaedf47ab2719cbeb4ed0bc75_0.file.header.tpl.php on line 28
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   8. Smarty_Internal_Template->_subTemplateRender() /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php:34
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   9. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:350
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP  10. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP  11. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP  12. content_5ab4d1fad082a3_13390415() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Undefined index: Name in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 56
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 56
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Undefined index: Name in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 61
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 61
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Undefined index: option_values in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Undefined index: option_selected in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Undefined index: option_output in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Undefined index: Name in /website/Agreen/Share/templates_c/45b40688e2b51cdbaedf47ab2719cbeb4ed0bc75_0.file.header.tpl.php on line 28
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   8. Smarty_Internal_Template->_subTemplateRender() /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php:34
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   9. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:350
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP  10. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP  11. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP  12. content_5ab4d1fad082a3_13390415() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/45b40688e2b51cdbaedf47ab2719cbeb4ed0bc75_0.file.header.tpl.php on line 28
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   8. Smarty_Internal_Template->_subTemplateRender() /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php:34
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   9. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:350
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP  10. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP  11. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP  12. content_5ab4d1fad082a3_13390415() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Undefined index: Name in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 56
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 56
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Undefined index: Name in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 61
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 61
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Undefined index: option_values in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Undefined index: option_selected in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Undefined index: option_output in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Undefined index: Name in /website/Agreen/Share/templates_c/45b40688e2b51cdbaedf47ab2719cbeb4ed0bc75_0.file.header.tpl.php on line 28
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   8. Smarty_Internal_Template->_subTemplateRender() /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php:34
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   9. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:350
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP  10. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP  11. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP  12. content_5ab4d1fad082a3_13390415() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/45b40688e2b51cdbaedf47ab2719cbeb4ed0bc75_0.file.header.tpl.php on line 28
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   8. Smarty_Internal_Template->_subTemplateRender() /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php:34
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   9. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:350
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP  10. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP  11. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP  12. content_5ab4d1fad082a3_13390415() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Undefined index: Name in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 56
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 56
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Undefined index: Name in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 61
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 61
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Undefined index: option_values in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Undefined index: option_selected in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Undefined index: option_output in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:43 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP Notice:  Undefined index: Name in /website/Agreen/Share/templates_c/45b40688e2b51cdbaedf47ab2719cbeb4ed0bc75_0.file.header.tpl.php on line 28
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   8. Smarty_Internal_Template->_subTemplateRender() /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php:34
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   9. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:350
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP  10. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP  11. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP  12. content_5ab4d1fad082a3_13390415() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/45b40688e2b51cdbaedf47ab2719cbeb4ed0bc75_0.file.header.tpl.php on line 28
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   8. Smarty_Internal_Template->_subTemplateRender() /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php:34
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   9. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:350
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP  10. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP  11. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP  12. content_5ab4d1fad082a3_13390415() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP Notice:  Undefined index: Name in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 56
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 56
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP Notice:  Undefined index: Name in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 61
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 61
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP Notice:  Undefined index: option_values in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP Notice:  Undefined index: option_selected in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP Notice:  Undefined index: option_output in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:44 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP Notice:  Undefined index: Name in /website/Agreen/Share/templates_c/45b40688e2b51cdbaedf47ab2719cbeb4ed0bc75_0.file.header.tpl.php on line 28
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   8. Smarty_Internal_Template->_subTemplateRender() /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php:34
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   9. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:350
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP  10. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP  11. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP  12. content_5ab4d1fad082a3_13390415() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/45b40688e2b51cdbaedf47ab2719cbeb4ed0bc75_0.file.header.tpl.php on line 28
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   8. Smarty_Internal_Template->_subTemplateRender() /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php:34
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   9. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:350
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP  10. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP  11. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP  12. content_5ab4d1fad082a3_13390415() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP Notice:  Undefined index: Name in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 56
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 56
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP Notice:  Undefined index: Name in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 61
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 61
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP Notice:  Undefined index: option_values in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP Notice:  Undefined index: option_selected in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP Notice:  Undefined index: option_output in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP Notice:  Trying to get property of non-object in /website/Agreen/Share/templates_c/85222df06a93ee8fd06b7f3b732cdc29b3221b66_0.file.index.tpl.php on line 151
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP Stack trace:
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   1. {main}() /website/Agreen/Share/smarty.php:0
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   2. Smarty_Internal_TemplateBase->display() /website/Agreen/Share/smarty.php:550
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   3. Smarty_Internal_TemplateBase->_execute() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:114
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   4. Smarty_Internal_Template->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatebase.php:199
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   5. Smarty_Template_Compiled->render() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_template.php:184
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   6. Smarty_Template_Resource_Base->getRenderedTemplateCode() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_compiled.php:170
+[23-Mar-2018 11:09:46 Europe/Zurich] PHP   7. content_5ab4d1facfb302_53306768() /website/Agreen/Share/lib/smarty3/sysplugins/smarty_template_resource_base.php:128
+[23-Mar-2018 11:10:41 Europe/Zurich] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/website/Agreen/Share/templates/index.tpl"  on line 142 "if($count_card["count_cash_all"]["cash"]>0 or $count_card["count_cash_all"]["status"]=="已兑奖"){?>"  - Unexpected "?" <-- 
+  thrown in /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 142
+[23-Mar-2018 11:10:42 Europe/Zurich] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/website/Agreen/Share/templates/index.tpl"  on line 142 "if($count_card["count_cash_all"]["cash"]>0 or $count_card["count_cash_all"]["status"]=="已兑奖"){?>"  - Unexpected "?" <-- 
+  thrown in /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 142
+[23-Mar-2018 11:10:43 Europe/Zurich] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/website/Agreen/Share/templates/index.tpl"  on line 142 "if($count_card["count_cash_all"]["cash"]>0 or $count_card["count_cash_all"]["status"]=="已兑奖"){?>"  - Unexpected "?" <-- 
+  thrown in /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 142
+[23-Mar-2018 11:10:43 Europe/Zurich] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/website/Agreen/Share/templates/index.tpl"  on line 142 "if($count_card["count_cash_all"]["cash"]>0 or $count_card["count_cash_all"]["status"]=="已兑奖"){?>"  - Unexpected "?" <-- 
+  thrown in /website/Agreen/Share/lib/smarty3/sysplugins/smarty_internal_templatecompilerbase.php on line 142
